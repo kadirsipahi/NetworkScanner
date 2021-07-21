@@ -19,6 +19,6 @@ python veya python3 kullanarak uygulamamızı başlatabiliriz.<br>
   
 
 ```
-python my_net_scanner.py -i <PrivateIP/CIDR>
+$ python my_net_scanner.py -i <PrivateIP/CIDR>
 
-python3 my_net_scanner.py -i <PrivateIP/CIDR>
+$ python3 my_net_scanner.py -i <PrivateIP/CIDR>
