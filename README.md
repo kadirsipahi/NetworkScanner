@@ -5,8 +5,7 @@
 *<strong>Uygulama içerisinde kullanılan kütüphaneler nelerdir ? Özet</strong><br>*
   <p>scapy.all, optparse kütüphaneleri kullanıldı;<br>
 <p>• scapy.all > Çok geniş bir kütüphane olmakla birlikte benim kullanım amacım çeşitli network paketleri oluşturmak, göndermek ve yakalamak oldu.<br>
-<p>• optparse > Terminal/Command Prompt üzerinde kullanıcıdan input alma işlemi için kullanıldı.<br>
-  Kullanıcıdan alınan argümanların sistem üzerinde uygulanıp kaydedilebilmesi için kullanıldı.<br>
+<p>• optparse > Terminal/Command Prompt üzerinde kullanıcıdan input alma işlemi için ve kullanıcıdan alınan argümanların sistem üzerinde uygulanıp kaydedilebilmesi için kullanıldı.<br>
   Bu kütüphanenin kullanılabilmesi için bir obje oluşturma şartı vardır. Uygulama içerisinde bu objeyi "parse_pbject" olarak tanımladım.<br>
   Argümanların kaydedilmesi için; dest="ip_address",help="Enter IP Address" yani dest ve help kwargs kullanıldı.<br>
   
