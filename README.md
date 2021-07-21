@@ -7,7 +7,7 @@
 <p>• scapy.all > Çok geniş bir kütüphane olmakla birlikte benim kullanım amacım çeşitli network paketleri oluşturmak, göndermek ve yakalamak oldu. Çalışma prensibi verilen kwarg değerleri üzerinden yürütülüyor.<br>
   Uygulama kaynağında karşılaşacağınız scapy.ls komutu bir --help parametresi gibi işlev görür ve hangi parametrenin hangi görevde olduğunu ve nasıl kullanacağımızı öğretir.<br>
 <p>• optparse > Terminal/Command Prompt üzerinde kullanıcıdan input alma işlemi için ve kullanıcıdan alınan argümanların sistem üzerinde uygulanıp kaydedilebilmesi için kullanıldı.<br>
-  Bu kütüphanenin kullanılabilmesi için bir obje oluşturma şartı vardır. Uygulama içerisinde bu objeyi "parse_pbject" olarak tanımladım.<br>
+  Bu kütüphanenin kullanılabilmesi için bir obje oluşturma şartı vardır. Uygulama içerisinde bu objeyi "parse_object" olarak tanımladım.<br>
   Argümanların kaydedilmesi için; dest="ip_address",help="Enter IP Address" yani dest ve help kwargs kullanıldı.<br>
   
 <strong>Projeyi Geliştirenler:</strong><br>
