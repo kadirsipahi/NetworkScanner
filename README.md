@@ -1,6 +1,6 @@
 ## NetworkScanner
 <strong>Projenin Özeti</strong>
-<p>Ağımızın/Bilgisayarımızın ARP Spoofing saldırılarına karşı durumunun kontrol edilebilmesi veya ağımızdaki aygıtları MAC ve IP adresleri yönünden inceyebilmemizi sağlar.</p>
+<p>Ağımızın/Bilgisayarımızın ARP Spoofing saldırılarına karşı durumunun kontrol edilebilmesi veya ağımızdaki aygıtları MAC ve IP adresleri yönünden inceleyebilmemizi sağlar.</p>
 
 *<strong>Uygulama içerisinde kullanılan kütüphaneler nelerdir ? Özet</strong><br>*
   <p>scapy.all, optparse kütüphaneleri kullanıldı;<br>
